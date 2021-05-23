@@ -8,9 +8,11 @@ The project is Python3 only, tested on Python 3.5 and 3.6.
 Installation :
 
 From PyPi using pip:
+
 pip install pysimpleautomata
 
 From source:
+
 python setup.py install
 pip install -r requirements.txt
 
@@ -20,5 +22,10 @@ from PySimpleAutomata import automata_IO
 
 DOT and JSON file are supported for input and output. AFW use only JSON because alternate automata doesn’t have a “natural” graph representation.
 DOT is a plain text graph description language. This format is recommend for DFAs and NFAs because permits to have natively both a graphical representation and an easy to read plain-text.
+
+DFA.dot file is provides along with the code.
+
+To read more about PySimpleAutomata :
+https://pysimpleautomata.readthedocs.io/en/latest/tutorial.html
 
 
