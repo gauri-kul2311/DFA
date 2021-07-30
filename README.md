@@ -1,11 +1,11 @@
 # DFA
-Problem Statement :
+###### Problem Statement :
 Hard code a DFA, display the DFA using graphics library and show if the input string will be accepted by the DFA.
 
-Requirements :
+###### Requirements :
 The project is Python3 only, tested on Python 3.5 and 3.6.
 
-Installation :
+###### Installation :
 
 From PyPi using pip:
 
@@ -25,7 +25,7 @@ DOT is a plain text graph description language. This format is recommend for DFA
 
 DFA.dot file is provides along with the code.
 
-To read more about PySimpleAutomata :
+###### To read more about PySimpleAutomata :
 https://pysimpleautomata.readthedocs.io/en/latest/tutorial.html
 
 
